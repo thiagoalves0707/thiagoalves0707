@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a78bfa&height=200&section=header&text=Thiago%20Alves&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20Uberl%C3%A2ndia%2C%20MG&descAlignY=58&descSize=17" width="100%" alt="Thiago Alves" />
+<img src="assets/banner-github.png" width="100%" alt="Thiago Alves Santana — Cybersecurity &amp; Hacking Ético | Desenvolvedor Full Stack" />
 
 <a href="https://github.com/thiagoalves0707">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Transformo+ideias+em+produtos+que+funcionam;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Jogos%2C+dashboards+e+visualiza%C3%A7%C3%B5es+interativas;Sempre+construindo+alguma+coisa+nova" alt="Texto digitando" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=root%40kali%3A~%24+whoami;Cybersecurity+%26+Hacking+%C3%89tico;Desenvolvedor+Full+Stack;Desenvolvendo+solu%C3%A7%C3%B5es+com+tecnologia" alt="Texto digitando" />
 </a>
 
 <br/>
 
-<a href="https://thiagoalvessantana.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-thiagoalvessantana.dev-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
-<img src="https://komarev.com/ghpvc/?username=thiagoalves0707&label=Visitas&color=6366f1&style=for-the-badge" alt="Visitas ao perfil" />
+<a href="https://thiagoalvessantana.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-thiagoalvessantana.dev-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+<img src="https://komarev.com/ghpvc/?username=thiagoalves0707&label=Visitas&color=ef4444&style=for-the-badge" alt="Visitas ao perfil" />
 
 </div>
 
@@ -19,18 +19,20 @@
 
 ```ts
 const thiago = {
+  nome: "Thiago Alves Santana",
   local: "Uberlândia, MG 🇧🇷",
-  foco: ["Front-end interativo", "Sistemas web full stack", "Jogos no navegador"],
-  stack: ["TypeScript", "React", "Next.js", "Node.js", "Prisma"],
-  aprendendoAgora: ["Algoritmos e estruturas de dados", "Visualização de dados"],
-  curiosidade: "Gosto de transformar coisa complexa em algo visual e fácil de entender",
+  areas: ["Cybersecurity & Hacking Ético", "Desenvolvimento Full Stack"],
+  linguagens: ["Python", "JavaScript", "TypeScript", "Java"],
+  ferramentas: ["Linux / Kali", "Docker", "Git & GitHub", "Cloud"],
+  aprendendoAgora: ["Pentest", "Algoritmos e estruturas de dados"],
+  missao: "Desenvolver soluções com tecnologia — e garantir que sejam seguras",
 };
 ```
 
 ### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,html,css,vite,git,github,vercel&perline=7" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,linux,kali,bash,docker,react,nextjs,nodejs,git,github,aws&perline=7" alt="Tecnologias" />
 </p>
 
 ---
@@ -79,10 +81,10 @@ const thiago = {
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagoalves0707&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalves0707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagoalves0707&show_icons=true&theme=dark&hide_border=true&bg_color=0b0b0d&title_color=ef4444&icon_color=ef4444&text_color=e5e5e5&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalves0707&layout=compact&theme=dark&hide_border=true&bg_color=0b0b0d&title_color=ef4444&locale=pt-br" alt="Linguagens mais usadas" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=thiagoalves0707&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=thiagoalves0707&theme=dark&hide_border=true&background=0b0b0d&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
 ### 🐍 Contribuições
@@ -99,6 +101,6 @@ const thiago = {
 
 **Bora trocar uma ideia?** Abre uma issue em qualquer projeto ou chama pelo [portfólio](https://thiagoalvessantana.dev). ⭐ nos repositórios ajuda demais!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6366f1,100:22d3ee&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:ef4444,100:7f1d1d&height=4&section=footer" width="100%" alt="" />
 
 </div>
