@@ -41,6 +41,25 @@ const thiago = {
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">▲ Sentinel</h3>
+      <a href="https://github.com/thiagoalves0707/sentinel">
+        <img src="https://raw.githubusercontent.com/thiagoalves0707/sentinel/main/docs/relatorio-capa.jpg" alt="Sentinel" width="100%" />
+      </a>
+      <p>Skill de <b>cibersegurança</b> que transforma o Claude num pentester ético: <b>portão de escopo obrigatório</b>, registro de cada ação, auditoria web, leitura de nmap, caça a <b>segredos vazados</b> no histórico git, nota <b>CVSS 3.1</b> e <b>relatório profissional</b> no final. Para CTF, pentest autorizado, bug bounty e blue team.</p>
+      <p align="center">
+        <a href="https://thiagoalves0707.github.io/sentinel/examples/lab-demo/engagement/report.html"><b>▶ Relatório de exemplo</b></a> ·
+        <a href="https://github.com/thiagoalves0707/sentinel"><b>Código</b></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pentest-ef4444?style=flat-square&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧭 Algo Lab</h3>
       <a href="https://github.com/thiagoalves0707/algo-lab">
